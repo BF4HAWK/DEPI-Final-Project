@@ -1,6 +1,6 @@
 # DEPI-Final-Project
 
-//{This ReadMe Incorprates all of the requested files links}//
+{This ReadMe Incorprates all of the requested files links}
 
 Project Link: https://drive.google.com/file/d/16I329xJA2L2xJfRI0i-N10cy6Qku61oC/view?usp=sharing
 
